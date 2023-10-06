@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(190, 199, 190);
+}
+
+.container-registro {
+    margin-left: auto;
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    color: rgb(18, 95, 18);
+}
+
+input {
+    padding: 15px;
+    outline: none;
+    border-radius: 6px;
+}
+
+.registro-input-nome {
+    background-color: #5aa05a;
+    border: 1px;
+}
+
+.registro-input-sobrenome {
+    background-color: #5aa05a;
+    border: 1px;
+}
+
+.registro-input-cpf {
+    width: 100%;
+    background-color: #5aa05a;
+    border: 1px;
+}
+
+
+.registro-input-email {
+    width: 100%;
+    background-color: #5aa05a;
+    border: 1px;
+}
+
+.registro-input-senha {
+    color: black;
+    width: 100%;
+    border: 1px;
+}
+
+.registro-input-repetir {
+    text-decoration-color: black;
+    width: 100%;
+    border: 1px;
+}
+
+.container-registro h1 {
+    transform: translateX(94px);
+    padding: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container-registro p {
+    padding: 10px;
+    transform: translateX(110px);
+    font-size: 18px;
+}
+
+.btn-success {
+    transform: translateX(120px);
+    padding: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.imagem-floresta {
+    height: 973px;
+    position: absolute;
+}
+
+.imagem-signup-semfundo {
+    background-color: transparent;
+    transform: translateX(672px);
+    margin-top: 50px;
+    
+}
